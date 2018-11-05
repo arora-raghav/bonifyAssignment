@@ -1,0 +1,7 @@
+[DEBUG] 2018-11-06 00:26:59.432 [main] VerifyLogin - Opening Browser : chrome
+[DEBUG] 2018-11-06 00:27:00.565 [main] VerifyLogin - Maximizing Browser
+[DEBUG] 2018-11-06 00:27:00.571 [main] VerifyLogin - Applying Implicit Wait..
+[INFO] 2018-11-06 00:27:00.571 [main] VerifyLogin - Browser settings completed
+[INFO] 2018-11-06 00:27:03.477 [main] VerifyLogin - Navigating to URL : https://my.bonify.de
+[INFO] 2018-11-06 00:27:03.477 [main] VerifyLogin - Test Started*************************Test
+[INFO] 2018-11-06 00:27:07.695 [main] VerifyLogin - Test Finished*************** Test
